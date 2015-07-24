@@ -43,6 +43,7 @@ modules.builtin
 /tags
 /TAGS
 /linux
+/arch/arm/boot/
 /vmlinux
 /vmlinuz
 /System.map
